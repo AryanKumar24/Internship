@@ -1,0 +1,15 @@
+=== Data Cleaning & Reporting Automation ===
+Raw dataset shape: (515, 7)
+Standardized text formatting in columns: ['Date', 'Region', 'Product', 'SalesRep']
+Parsed 'Date' column into a consistent datetime format (0 unparseable dates set to NaT)
+Removed 15 exact duplicate rows
+Flagged 5 negative 'UnitsSold' values as invalid -> missing
+Filled missing numeric values with column median; missing categorical values with column mode:
+    - Region: 20 missing values filled
+    - SalesRep: 20 missing values filled
+    - UnitsSold: 25 missing values filled
+    - UnitPrice: 20 missing values filled
+Cleaned dataset shape: (500, 8)
+Cleaned data saved to outputs/cleaned_sales_data.csv
+Charts saved to outputs/charts/
+Excel report saved to outputs/sales_report.xlsx

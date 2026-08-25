@@ -1,0 +1,516 @@
+OrderID,Date,Region,Product,SalesRep,UnitsSold,UnitPrice
+1000,2025-02-27,SOUTH,Widget C,A. Khan,15.0,32.21
+1001,02-22-2025,SOUTH,Widget  B,J. Smith,38.0,87.27
+1002,2025-01-16,South,Widget B,j. smith,39.0,10.17
+1003,04-12-2025,SOUTH,Widget  B,R. Patel,15.0,92.6
+1004,2025-05-23, East ,Widget B,R. Patel,22.0,59.18
+1005,21/04/2025,North,Widget A,R. Patel,7.0,75.0
+1006,06-26-2025,East,Widget A,R. Patel,35.0,29.34
+1007,2025-07-13,north,Widget C,j. smith,24.0,117.58
+1008,2025-02-05,SOUTH,Widget B,M. Chen,6.0,171.79
+1009,21/02/2025,East,widget a,M. Chen,,77.19
+1010,04-18-2025,East,Widget A,j. smith,41.0,38.37
+1011,2025-05-06,West,widget a,M. Chen,41.0,139.19
+1012,04-23-2025,East,Widget A,A. Khan,3.0,161.98
+1013,25/07/2025,North,Widget B,j. smith,46.0,66.36
+1014,13/09/2025,SOUTH,widget a,A. Khan,17.0,32.23
+1015,10-15-2025,East,Widget  B,R. Patel,38.0,82.88
+1016,2025-04-23,north,widget a,J. Smith,49.0,14.19
+1017,2025-02-26,SOUTH,Widget B,R. Patel,39.0,17.39
+1018,07-15-2025,West,Widget  B,M. Chen,36.0,172.85
+1019,01-06-2025,SOUTH,Widget A,j. smith,49.0,57.03
+1020,2025-06-24,East,widget a,A. Khan,30.0,5.63
+1021,05-15-2025, East ,Widget B,j. smith,7.0,174.75
+1022,06-02-2025,north,Widget  B,A. Khan,10.0,77.91
+1023,03-24-2025, East ,Widget  B,J. Smith,39.0,68.21
+1024,2025-01-10,East,Widget C,A. Khan,4.0,51.97
+1025,2025-10-18,North,widget a,J. Smith,49.0,108.88
+1026,2025-03-06,SOUTH,widget a,j. smith,11.0,56.69
+1027,2025-08-05,,Widget B,M. Chen,26.0,199.05
+1028,11/07/2025,north,widget a,J. Smith,16.0,48.82
+1029,2025-06-23,north,Widget  B,A. Khan,38.0,47.94
+1030,02-06-2025,SOUTH,Widget A,A. Khan,,181.56
+1031,2025-06-19,north,Widget B,M. Chen,43.0,99.66
+1032,2025-10-04,SOUTH,Widget  B,j. smith,31.0,52.38
+1033,31/08/2025,South,Widget A,J. Smith,43.0,89.05
+1034,05/08/2025,West,Widget A,J. Smith,4.0,83.51
+1035,2025-06-23,South,Widget B,A. Khan,35.0,92.48
+1036,2025-08-05,East,widget a,A. Khan,5.0,91.41
+1037,2025-10-09,North,Widget  B,J. Smith,6.0,185.64
+1038,2025-05-02,West,widget a,R. Patel,14.0,173.61
+1039,2025-01-31,West,Widget A,R. Patel,17.0,185.67
+1040,21/08/2025,West,Widget  B,R. Patel,10.0,42.03
+1041,2025-04-22,north,Widget  B,J. Smith,48.0,66.15
+1042,01-26-2025,West,Widget  B,,11.0,16.09
+1043,2025-09-18, East ,Widget B,J. Smith,39.0,18.25
+1044,01/05/2025,North,Widget  B,A. Khan,38.0,120.93
+1045,11/02/2025,SOUTH,Widget  B,j. smith,34.0,66.69
+1046,2025-05-14,SOUTH,Widget C,A. Khan,17.0,82.18
+1047,03/06/2025,,Widget A,,30.0,126.13
+1048,2025-10-16,North,Widget  B,A. Khan,33.0,56.71
+1049,2025-06-28,South,Widget C,M. Chen,11.0,90.45
+1050,10-06-2025,East,Widget  B,j. smith,1.0,135.23
+1051,11/10/2025,SOUTH,Widget A,A. Khan,17.0,27.51
+1052,02-24-2025,north,Widget B,M. Chen,19.0,122.94
+1053,2025-06-25,SOUTH,Widget C,j. smith,32.0,53.97
+1054,2025-01-27,SOUTH,widget a,M. Chen,3.0,5.69
+1055,03-08-2025,East,Widget B,R. Patel,-36.0,142.61
+1056,2025-10-15,North,Widget A,,35.0,12.03
+1057,07-09-2025,north,Widget B,R. Patel,9.0,13.16
+1058,2025-07-06,East,Widget B,A. Khan,43.0,25.04
+1059,14/10/2025,north,Widget B,A. Khan,11.0,195.36
+1060,01/04/2025,North,Widget B,M. Chen,27.0,161.44
+1061,08/05/2025,South,Widget A,R. Patel,3.0,172.43
+1062,2025-04-24, East ,widget a,M. Chen,20.0,165.0
+1063,2025-04-27,North,Widget B,R. Patel,22.0,59.33
+1064,05/02/2025,East,Widget  B,R. Patel,44.0,196.32
+1065,02/10/2025,North,Widget A,M. Chen,12.0,118.21
+1066,2025-05-16,North,Widget  B,R. Patel,23.0,
+1067,10/06/2025,north,Widget  B,J. Smith,25.0,
+1068,08/04/2025,North,widget a,J. Smith,,185.49
+1069,10-03-2025,SOUTH,Widget B,M. Chen,28.0,18.64
+1070,06-19-2025,East,Widget A,M. Chen,33.0,65.31
+1071,29/07/2025,West,Widget C,j. smith,9.0,42.41
+1072,07-14-2025,SOUTH,Widget B,j. smith,37.0,63.69
+1073,2025-10-08,East,Widget C,A. Khan,,158.22
+1074,14/06/2025,West,widget a,A. Khan,33.0,97.27
+1075,03-28-2025,North,Widget C,j. smith,43.0,128.42
+1076,2025-06-21,,Widget B,M. Chen,15.0,
+1077,2025-03-17,North,Widget B,R. Patel,40.0,170.7
+1078,07/02/2025,,Widget  B,A. Khan,46.0,140.79
+1079,11/09/2025,South,Widget B,J. Smith,49.0,172.79
+1080,24/02/2025,South,Widget B,j. smith,30.0,14.79
+1081,2025-05-08,West,Widget B,R. Patel,43.0,108.57
+1082,10-14-2025,East,widget a,,47.0,178.94
+1083,08-07-2025,West,Widget B,R. Patel,29.0,55.54
+1084,05-07-2025,East,Widget  B,R. Patel,,51.65
+1085,2025-08-14,SOUTH,Widget C,A. Khan,18.0,70.49
+1086,2025-10-04,South,Widget B,A. Khan,25.0,140.32
+1087,2025-04-20,West,widget a,M. Chen,35.0,95.86
+1088,2025-02-01, East ,widget a,R. Patel,50.0,118.9
+1089,01-11-2025,West,widget a,J. Smith,23.0,63.23
+1090,19/07/2025,,Widget  B,j. smith,15.0,100.2
+1091,20/05/2025,West,Widget A,R. Patel,22.0,135.43
+1092,07-27-2025,South,widget a,A. Khan,40.0,109.15
+1093,07-21-2025,north,Widget A,J. Smith,42.0,88.58
+1094,2025-08-25,North,Widget C,R. Patel,21.0,46.27
+1095,17/06/2025, East ,widget a,M. Chen,49.0,190.48
+1096,04/08/2025, East ,Widget A,R. Patel,2.0,151.06
+1097,27/01/2025,South,Widget A,J. Smith,49.0,11.05
+1098,2025-05-07, East ,Widget A,j. smith,10.0,51.52
+1099,08-31-2025,North,Widget  B,A. Khan,30.0,141.4
+1100,2025-07-08,north,Widget  B,J. Smith,50.0,164.76
+1101,2025-06-09,,Widget A,M. Chen,37.0,137.08
+1102,12/07/2025,SOUTH,Widget B,J. Smith,38.0,139.67
+1103,2025-05-05,SOUTH,Widget C,j. smith,8.0,160.26
+1104,2025-10-17,East,Widget  B,R. Patel,,77.26
+1105,09-17-2025,East,Widget A,R. Patel,32.0,25.58
+1106,07-05-2025, East ,widget a,A. Khan,28.0,39.35
+1107,09-25-2025,East,Widget  B,j. smith,50.0,99.28
+1108,08-12-2025,north,Widget C,M. Chen,16.0,166.99
+1109,14/02/2025,West,Widget B,R. Patel,37.0,124.01
+1110,14/07/2025,North,widget a,M. Chen,12.0,100.07
+1111,01/07/2025,East,Widget C,j. smith,45.0,176.62
+1112,2025-10-12,north,Widget B,J. Smith,16.0,145.41
+1113,09-08-2025, East ,Widget B,R. Patel,42.0,143.81
+1114,2025-08-18,North,Widget C,A. Khan,26.0,139.9
+1115,06-06-2025,,Widget C,R. Patel,36.0,108.53
+1116,08-06-2025,north,Widget C,M. Chen,45.0,93.48
+1117,06/06/2025,South,Widget A,A. Khan,21.0,28.31
+1118,10-02-2025,South,Widget B,A. Khan,48.0,99.42
+1119,09-26-2025,East,Widget A,A. Khan,19.0,49.36
+1120,02/04/2025,North,Widget  B,A. Khan,18.0,13.88
+1121,01-28-2025,East,Widget B,R. Patel,7.0,175.18
+1122,21/10/2025,West,widget a,R. Patel,22.0,40.95
+1123,27/01/2025, East ,widget a,J. Smith,5.0,
+1124,02-07-2025,SOUTH,Widget A,A. Khan,,163.17
+1125,2025-06-05,South,Widget A,j. smith,49.0,86.15
+1126,04-26-2025,West,widget a,R. Patel,20.0,172.73
+1127,08/08/2025,north,Widget  B,J. Smith,40.0,192.22
+1128,2025-02-20,SOUTH,Widget B,M. Chen,43.0,20.83
+1129,2025-05-03,north,Widget A,A. Khan,1.0,84.66
+1130,29/08/2025,North,Widget B,M. Chen,46.0,60.13
+1131,2025-08-21,SOUTH,Widget B,M. Chen,41.0,120.01
+1132,12/04/2025,North,Widget  B,A. Khan,42.0,34.05
+1133,2025-05-17,North,Widget A,A. Khan,20.0,121.03
+1134,19/10/2025,West,Widget A,R. Patel,45.0,64.3
+1135,26/07/2025,north,Widget  B,R. Patel,29.0,20.69
+1136,21/01/2025,SOUTH,Widget C,j. smith,17.0,10.04
+1137,04-28-2025, East ,Widget  B,j. smith,2.0,199.92
+1138,05-18-2025,North,Widget B,R. Patel,34.0,132.04
+1139,2025-05-23,north,widget a,R. Patel,6.0,96.65
+1140,29/07/2025,East,Widget A,A. Khan,22.0,85.27
+1141,11/09/2025,SOUTH,widget a,j. smith,3.0,93.69
+1142,11/06/2025,East,Widget A,R. Patel,33.0,165.86
+1143,01-01-2025, East ,Widget  B,R. Patel,27.0,15.57
+1144,23/09/2025,north,widget a,R. Patel,49.0,15.06
+1145,05-17-2025,South,Widget C,R. Patel,45.0,99.52
+1146,01-15-2025,north,Widget B,A. Khan,20.0,112.41
+1147,10/10/2025,North,Widget B,J. Smith,30.0,189.68
+1148,20/03/2025,SOUTH,Widget C,,46.0,58.32
+1149,05/09/2025,South,widget a,j. smith,10.0,79.8
+1150,09-18-2025,South,Widget A,M. Chen,50.0,159.05
+1151,01/08/2025, East ,Widget  B,M. Chen,1.0,60.15
+1152,06-02-2025,north,widget a,A. Khan,29.0,110.02
+1153,26/06/2025,north,Widget  B,R. Patel,30.0,186.91
+1154,04-07-2025,South,Widget  B,R. Patel,15.0,171.92
+1155,2025-07-30,East,widget a,R. Patel,,197.74
+1156,19/03/2025,North,Widget B,j. smith,38.0,69.74
+1157,21/02/2025,North,Widget  B,R. Patel,1.0,145.88
+1158,07-29-2025,South,Widget A,R. Patel,17.0,71.02
+1159,07-23-2025,North,Widget C,j. smith,25.0,191.06
+1160,09-07-2025,North,Widget  B,J. Smith,16.0,128.08
+1161,2025-05-28,SOUTH,Widget A,R. Patel,7.0,153.27
+1162,21/02/2025,South,Widget C,J. Smith,3.0,68.25
+1163,29/01/2025,East,Widget C,R. Patel,10.0,52.62
+1164,07-30-2025,SOUTH,Widget B,A. Khan,12.0,20.4
+1165,07-15-2025,SOUTH,Widget B,R. Patel,38.0,32.91
+1166,08-25-2025,East,widget a,,43.0,6.83
+1167,27/08/2025,SOUTH,Widget  B,A. Khan,5.0,91.14
+1168,06-26-2025,East,widget a,M. Chen,30.0,169.83
+1169,12/04/2025, East ,widget a,J. Smith,16.0,79.37
+1170,07-03-2025,East,Widget C,J. Smith,43.0,82.18
+1171,01-05-2025, East ,Widget A,j. smith,48.0,101.86
+1172,2025-05-27,north,Widget C,A. Khan,41.0,42.08
+1173,05-09-2025, East ,Widget B,J. Smith,41.0,131.04
+1174,08/06/2025,North,Widget  B,M. Chen,47.0,30.63
+1175,01/06/2025,SOUTH,widget a,A. Khan,13.0,30.77
+1176,04/10/2025,north,Widget  B,M. Chen,11.0,55.11
+1177,04/09/2025,SOUTH,Widget C,J. Smith,30.0,192.76
+1178,2025-03-14, East ,widget a,j. smith,24.0,22.61
+1179,2025-07-22,East,Widget  B,J. Smith,30.0,
+1180,05-15-2025,West,Widget C,J. Smith,44.0,50.6
+1181,01-13-2025,north,Widget C,,15.0,131.29
+1182,08-26-2025,East,widget a,J. Smith,9.0,13.84
+1183,20/01/2025,West,Widget A,J. Smith,16.0,178.02
+1184,11/03/2025,,Widget C,j. smith,27.0,119.53
+1185,21/03/2025,SOUTH,Widget A,R. Patel,40.0,84.58
+1186,2025-05-24,SOUTH,Widget C,A. Khan,29.0,91.72
+1187,01/05/2025,North,Widget C,j. smith,42.0,74.94
+1188,23/07/2025,South,Widget A,R. Patel,6.0,134.24
+1189,2025-01-11, East ,Widget C,A. Khan,9.0,158.46
+1190,2025-04-16, East ,Widget  B,A. Khan,38.0,47.11
+1191,30/04/2025, East ,Widget B,j. smith,1.0,59.07
+1192,2025-03-16,north,Widget C,A. Khan,8.0,133.91
+1193,2025-01-14,North,Widget C,A. Khan,38.0,68.14
+1194,31/03/2025,North,Widget B,R. Patel,,
+1195,02/02/2025,West,Widget C,j. smith,38.0,26.27
+1196,2025-09-15,north,Widget A,j. smith,-20.0,94.32
+1197,2025-01-16,West,widget a,R. Patel,44.0,26.05
+1198,2025-08-16,North,Widget C,j. smith,10.0,17.81
+1199,05-21-2025,SOUTH,Widget  B,j. smith,46.0,68.41
+1200,29/09/2025,West,Widget  B,j. smith,28.0,24.34
+1201,02-28-2025,SOUTH,Widget  B,A. Khan,28.0,93.05
+1202,27/04/2025,East,widget a,R. Patel,27.0,147.27
+1203,10/06/2025,East,Widget C,M. Chen,10.0,138.93
+1204,2025-08-31,North,Widget A,J. Smith,28.0,23.83
+1205,2025-07-10,north,Widget A,j. smith,36.0,114.53
+1206,04/03/2025,East,widget a,J. Smith,19.0,122.08
+1207,2025-06-30,north,Widget  B,A. Khan,10.0,133.06
+1208,2025-04-25,East,Widget  B,M. Chen,8.0,153.71
+1209,2025-10-21, East ,widget a,j. smith,50.0,164.59
+1210,2025-10-13,north,Widget C,J. Smith,12.0,58.29
+1211,08/06/2025,East,Widget A,A. Khan,10.0,115.43
+1212,2025-07-25,South,Widget A,,48.0,108.44
+1213,12/07/2025,West,Widget C,A. Khan,24.0,65.77
+1214,06-16-2025,north,Widget A,J. Smith,10.0,35.69
+1215,01-26-2025,North,Widget C,R. Patel,43.0,87.68
+1216,15/08/2025,East,Widget B,j. smith,8.0,72.31
+1217,26/02/2025,SOUTH,Widget  B,R. Patel,34.0,135.09
+1218,2025-01-24,,Widget  B,J. Smith,1.0,44.86
+1219,2025-04-19, East ,Widget C,M. Chen,21.0,28.4
+1220,09-12-2025,West,Widget B,A. Khan,25.0,108.85
+1221,04-28-2025,north,Widget C,J. Smith,26.0,173.04
+1222,22/01/2025,North,widget a,J. Smith,21.0,117.27
+1223,21/10/2025,SOUTH,widget a,M. Chen,8.0,83.98
+1224,2025-06-16, East ,Widget  B,,45.0,184.36
+1225,15/02/2025, East ,Widget A,A. Khan,28.0,119.83
+1226,2025-09-26,West,Widget C,M. Chen,15.0,69.95
+1227,2025-03-28,north,Widget A,j. smith,33.0,42.81
+1228,28/06/2025,SOUTH,Widget B,A. Khan,7.0,33.56
+1229,2025-04-12,north,Widget B,J. Smith,12.0,190.5
+1230,10/09/2025, East ,Widget  B,j. smith,29.0,137.82
+1231,10-17-2025,SOUTH,Widget  B,M. Chen,41.0,66.65
+1232,2025-08-14,West,widget a,M. Chen,18.0,120.33
+1233,06-30-2025,North,Widget C,R. Patel,29.0,12.33
+1234,08/07/2025,North,Widget A,j. smith,39.0,103.88
+1235,08-25-2025,north,Widget A,R. Patel,37.0,132.11
+1236,06-14-2025,West,Widget  B,A. Khan,4.0,92.85
+1237,06-25-2025,North,Widget  B,A. Khan,3.0,
+1238,13/08/2025,north,Widget  B,j. smith,11.0,75.96
+1239,25/05/2025,West,Widget C,j. smith,4.0,158.9
+1240,2025-06-21,East,Widget A,j. smith,44.0,80.38
+1241,05-10-2025, East ,Widget  B,A. Khan,22.0,20.89
+1242,14/03/2025,East,widget a,A. Khan,39.0,143.22
+1243,13/02/2025,north,widget a,M. Chen,9.0,135.67
+1244,2025-09-27,SOUTH,widget a,j. smith,24.0,8.55
+1245,2025-06-08,South,Widget C,R. Patel,13.0,49.18
+1246,2025-03-12,North,Widget C,J. Smith,33.0,155.32
+1247,2025-09-27,SOUTH,Widget C,j. smith,9.0,121.46
+1248,2025-03-20,South,Widget  B,A. Khan,47.0,90.35
+1249,30/07/2025,SOUTH,Widget B,R. Patel,40.0,60.56
+1250,2025-08-18,north,Widget B,M. Chen,31.0,181.27
+1251,10/04/2025,SOUTH,Widget  B,R. Patel,30.0,155.04
+1252,07-15-2025,north,widget a,A. Khan,13.0,161.25
+1253,12/03/2025,North,widget a,M. Chen,36.0,187.19
+1254,2025-09-22,East,Widget A,A. Khan,18.0,92.62
+1255,2025-09-20, East ,widget a,J. Smith,15.0,164.26
+1256,2025-06-28,West,Widget A,R. Patel,33.0,77.92
+1257,2025-07-17,,Widget B,J. Smith,21.0,186.51
+1258,2025-06-21,South,Widget A,M. Chen,31.0,140.73
+1259,03-13-2025,,widget a,j. smith,1.0,181.64
+1260,10/01/2025,South,Widget B,j. smith,47.0,123.73
+1261,2025-08-05, East ,Widget C,A. Khan,20.0,28.76
+1262,03/05/2025,SOUTH,Widget  B,R. Patel,5.0,26.62
+1263,09-13-2025,north,Widget A,j. smith,37.0,52.18
+1264,15/03/2025,West,Widget A,j. smith,23.0,51.91
+1265,2025-08-02,SOUTH,Widget A,j. smith,24.0,18.2
+1266,09-27-2025,north,Widget  B,j. smith,2.0,81.14
+1267,2025-08-29,,widget a,M. Chen,17.0,150.73
+1268,2025-07-02,East,Widget B,J. Smith,50.0,118.47
+1269,2025-06-20,North,Widget C,j. smith,22.0,163.63
+1270,03-31-2025,West,widget a,A. Khan,9.0,17.3
+1271,2025-08-23,East,Widget B,J. Smith,13.0,177.73
+1272,11/06/2025,north,widget a,j. smith,31.0,54.4
+1273,08/04/2025,,Widget A,M. Chen,18.0,29.27
+1274,08/07/2025,West,widget a,R. Patel,22.0,194.88
+1275,09-12-2025,West,Widget C,j. smith,18.0,161.22
+1276,2025-08-06,West,Widget  B,A. Khan,35.0,62.28
+1277,2025-02-22,East,Widget C,M. Chen,29.0,122.51
+1278,2025-08-07,SOUTH,widget a,M. Chen,29.0,13.26
+1279,06-30-2025,West,Widget C,J. Smith,5.0,135.88
+1280,27/07/2025,north,Widget B,J. Smith,10.0,170.49
+1281,2025-08-13,South,Widget A,A. Khan,50.0,130.81
+1282,05/07/2025,north,Widget A,j. smith,10.0,137.42
+1283,09/07/2025,West,Widget A,j. smith,9.0,108.24
+1284,23/07/2025,SOUTH,Widget C,A. Khan,8.0,10.05
+1285,06/04/2025,north,widget a,j. smith,8.0,56.05
+1286,05-14-2025,West,Widget B,j. smith,19.0,140.33
+1287,2025-09-09,North,Widget B,J. Smith,29.0,38.67
+1288,2025-08-16, East ,Widget C,M. Chen,46.0,17.66
+1289,05/10/2025,East,Widget B,A. Khan,24.0,104.21
+1290,2025-03-04, East ,Widget B,A. Khan,32.0,10.13
+1291,10-11-2025,East,widget a,j. smith,9.0,124.33
+1292,2025-02-14,East,widget a,R. Patel,34.0,85.11
+1293,07-29-2025,North,Widget B,M. Chen,42.0,19.46
+1294,08-27-2025,north,Widget C,A. Khan,50.0,112.5
+1295,2025-10-28, East ,Widget B,R. Patel,33.0,182.59
+1296,2025-01-29,north,Widget B,M. Chen,11.0,
+1297,26/04/2025,north,Widget C,J. Smith,17.0,43.28
+1298,10/10/2025,South,Widget C,,35.0,23.22
+1299,03-28-2025,north,Widget B,A. Khan,43.0,126.77
+1300,06-22-2025,North,Widget A,J. Smith,3.0,189.97
+1301,23/10/2025,SOUTH,Widget B,j. smith,27.0,125.53
+1302,16/01/2025,SOUTH,Widget  B,M. Chen,42.0,191.55
+1303,2025-09-05, East ,widget a,M. Chen,30.0,19.23
+1304,2025-01-31,West,widget a,R. Patel,30.0,44.78
+1305,15/03/2025, East ,Widget C,M. Chen,26.0,30.5
+1306,07-09-2025,north,Widget A,M. Chen,16.0,
+1307,17/05/2025,South,Widget B,J. Smith,4.0,61.59
+1308,07-16-2025,West,Widget B,,21.0,187.08
+1309,2025-06-10, East ,Widget B,R. Patel,33.0,96.03
+1310,07/06/2025,North,Widget A,R. Patel,33.0,94.16
+1311,2025-05-04,north,Widget C,J. Smith,4.0,59.86
+1312,29/08/2025,north,Widget A,J. Smith,28.0,
+1313,05-16-2025,East,widget a,M. Chen,3.0,83.11
+1314,10-19-2025,South,Widget C,,19.0,19.34
+1315,16/09/2025, East ,Widget  B,M. Chen,40.0,137.68
+1316,2025-03-02,North,widget a,M. Chen,,113.78
+1317,2025-07-07,South,Widget  B,j. smith,26.0,102.52
+1318,2025-01-24,South,Widget C,R. Patel,34.0,94.11
+1319,2025-09-21,East,Widget  B,M. Chen,11.0,
+1320,06-03-2025,East,Widget  B,j. smith,35.0,100.52
+1321,16/10/2025,West,Widget A,M. Chen,22.0,136.39
+1322,08-02-2025,East,Widget A,j. smith,31.0,56.78
+1323,10-24-2025,South,Widget A,j. smith,31.0,38.25
+1324,2025-07-14, East ,Widget B,,37.0,189.9
+1325,2025-02-26,North,widget a,M. Chen,27.0,34.53
+1326,15/04/2025,north,Widget  B,R. Patel,48.0,146.84
+1327,03-12-2025,South,Widget  B,M. Chen,43.0,98.28
+1328,12/07/2025,South,widget a,j. smith,22.0,111.52
+1329,05-16-2025,West,Widget B,A. Khan,18.0,113.83
+1330,26/04/2025, East ,Widget C,A. Khan,45.0,142.47
+1331,12/06/2025,East,Widget  B,M. Chen,19.0,28.77
+1332,06/10/2025,West,Widget C,A. Khan,19.0,13.2
+1333,10/02/2025,West,Widget C,R. Patel,14.0,44.4
+1334,03/10/2025,north,Widget C,A. Khan,7.0,125.06
+1335,2025-10-28,South,Widget A,j. smith,15.0,129.4
+1336,2025-01-27,West,Widget C,R. Patel,7.0,137.83
+1337,2025-03-12,north,Widget B,R. Patel,42.0,187.33
+1338,01/09/2025,SOUTH,Widget B,M. Chen,21.0,60.66
+1339,2025-01-31,SOUTH,Widget  B,A. Khan,35.0,149.04
+1340,2025-01-20,West,Widget B,J. Smith,26.0,158.65
+1341,04-06-2025, East ,Widget C,J. Smith,1.0,63.19
+1342,24/02/2025,East,widget a,j. smith,34.0,101.31
+1343,03-10-2025,West,Widget C,A. Khan,8.0,69.48
+1344,08-23-2025,East,Widget B,J. Smith,48.0,70.74
+1345,06-01-2025,SOUTH,Widget B,A. Khan,40.0,
+1346,27/07/2025,north,Widget C,J. Smith,26.0,135.5
+1347,2025-04-05,West,Widget C,A. Khan,1.0,55.85
+1348,01/05/2025, East ,Widget C,M. Chen,20.0,118.58
+1349,2025-10-21,East,Widget C,A. Khan,4.0,135.22
+1350,27/08/2025,South,widget a,j. smith,46.0,155.12
+1351,03-02-2025,East,Widget C,j. smith,15.0,47.73
+1352,10/03/2025,South,widget a,j. smith,24.0,86.09
+1353,09/10/2025, East ,Widget  B,A. Khan,49.0,53.26
+1354,02-11-2025,West,Widget  B,M. Chen,5.0,183.86
+1355,2025-02-27, East ,Widget  B,j. smith,13.0,116.68
+1356,2025-03-18,East,Widget  B,R. Patel,8.0,137.66
+1357,26/10/2025,North,Widget  B,R. Patel,4.0,93.42
+1358,20/09/2025,West,Widget  B,J. Smith,36.0,95.16
+1359,06-07-2025,North,widget a,M. Chen,1.0,150.43
+1360,2025-10-24,North,widget a,M. Chen,45.0,17.43
+1361,2025-01-31,West,Widget A,M. Chen,,40.1
+1362,03-11-2025,SOUTH,widget a,M. Chen,25.0,92.46
+1363,13/07/2025,North,Widget  B,A. Khan,42.0,172.76
+1364,2025-03-02,north,widget a,j. smith,9.0,146.93
+1365,2025-04-25, East ,Widget A,M. Chen,30.0,136.33
+1366,06/10/2025,north,widget a,A. Khan,16.0,94.82
+1367,21/03/2025,South,Widget A,,43.0,86.75
+1368,2025-01-09,South,Widget A,J. Smith,39.0,11.55
+1369,2025-01-25,SOUTH,Widget A,,29.0,50.7
+1370,2025-04-22,South,Widget  B,M. Chen,15.0,164.08
+1371,22/10/2025,north,Widget  B,M. Chen,,63.84
+1372,03-15-2025,north,Widget B,R. Patel,20.0,58.66
+1373,10-13-2025,SOUTH,Widget B,R. Patel,36.0,101.65
+1374,06-26-2025,SOUTH,widget a,j. smith,,140.78
+1375,2025-07-29,East,widget a,A. Khan,49.0,109.9
+1376,2025-05-04,East,Widget B,R. Patel,4.0,114.67
+1377,08-02-2025,north,Widget B,R. Patel,,54.72
+1378,06-19-2025,North,widget a,M. Chen,6.0,109.45
+1379,2025-04-08,East,widget a,j. smith,39.0,12.71
+1380,2025-02-07, East ,Widget  B,j. smith,14.0,98.48
+1381,20/06/2025,North,Widget B,A. Khan,48.0,27.88
+1382,2025-09-03,SOUTH,Widget  B,A. Khan,26.0,183.45
+1383,10/10/2025, East ,Widget C,R. Patel,30.0,109.06
+1384,03/07/2025,East,Widget C,j. smith,32.0,95.87
+1385,29/08/2025,South,Widget C,M. Chen,27.0,13.91
+1386,04-24-2025,South,Widget A,M. Chen,36.0,187.28
+1387,10-24-2025,West,Widget C,A. Khan,13.0,69.32
+1388,07-14-2025, East ,Widget B,R. Patel,,132.65
+1389,22/06/2025, East ,widget a,R. Patel,30.0,37.81
+1390,2025-06-30,South,Widget  B,R. Patel,12.0,183.8
+1391,10-05-2025,North,Widget  B,J. Smith,5.0,189.31
+1392,2025-01-25,West,Widget B,,5.0,142.9
+1393,2025-01-05,north,widget a,M. Chen,4.0,125.48
+1394,09-05-2025,West,Widget A,J. Smith,,
+1395,2025-01-07,north,Widget C,j. smith,19.0,8.34
+1396,2025-08-09,North,Widget A,j. smith,10.0,51.99
+1397,27/09/2025, East ,Widget C,M. Chen,26.0,20.41
+1398,27/07/2025,north,Widget B,A. Khan,20.0,138.39
+1399,02-11-2025, East ,Widget A,J. Smith,26.0,78.96
+1400,10/10/2025,North,Widget A,,6.0,102.47
+1401,08-11-2025, East ,Widget C,j. smith,7.0,179.48
+1402,2025-01-22,South,Widget  B,R. Patel,18.0,14.08
+1403,02-08-2025,East,Widget  B,j. smith,43.0,11.42
+1404,2025-06-11,South,Widget  B,A. Khan,49.0,165.03
+1405,2025-07-23,East,Widget B,j. smith,16.0,115.51
+1406,07-19-2025,north,Widget C,R. Patel,,149.25
+1407,02-10-2025,SOUTH,Widget C,J. Smith,7.0,90.23
+1408,08/02/2025,north,Widget  B,j. smith,,193.94
+1409,2025-06-17,SOUTH,Widget C,R. Patel,32.0,49.49
+1410,11/10/2025,West,Widget B,j. smith,43.0,79.11
+1411,2025-06-01,SOUTH,Widget A,J. Smith,18.0,35.07
+1412,03-20-2025,West,Widget C,M. Chen,7.0,22.85
+1413,07/06/2025,East,Widget C,J. Smith,9.0,22.02
+1414,09/08/2025,north,Widget  B,j. smith,27.0,25.14
+1415,15/02/2025,north,Widget A,j. smith,39.0,157.97
+1416,2025-07-17,East,widget a,,50.0,21.52
+1417,2025-10-14,north,Widget  B,A. Khan,44.0,79.24
+1418,13/03/2025,East,Widget C,R. Patel,10.0,17.34
+1419,11/08/2025,West,Widget C,R. Patel,5.0,75.42
+1420,05-07-2025,SOUTH,widget a,j. smith,40.0,43.13
+1421,2025-02-24,,Widget A,,22.0,169.11
+1422,14/07/2025,West,Widget C,R. Patel,42.0,194.97
+1423,11/03/2025,East,Widget  B,A. Khan,31.0,66.27
+1424,23/07/2025,East,widget a,j. smith,16.0,68.55
+1425,24/05/2025,East,Widget A,j. smith,13.0,120.48
+1426,2025-10-07,SOUTH,Widget  B,J. Smith,47.0,95.02
+1427,18/04/2025, East ,Widget C,J. Smith,27.0,136.23
+1428,03-13-2025,East,Widget B,M. Chen,43.0,35.06
+1429,05/08/2025,North,widget a,j. smith,31.0,118.54
+1430,10-01-2025, East ,widget a,j. smith,3.0,
+1431,07-04-2025, East ,Widget  B,j. smith,41.0,183.31
+1432,2025-02-25,SOUTH,Widget C,A. Khan,42.0,124.47
+1433,10-16-2025,SOUTH,widget a,M. Chen,28.0,25.66
+1434,20/02/2025,South,Widget  B,j. smith,36.0,118.2
+1435,2025-10-22,,Widget C,R. Patel,30.0,155.61
+1436,2025-09-14,East,Widget A,R. Patel,-7.0,62.61
+1437,2025-02-13, East ,Widget B,M. Chen,20.0,71.9
+1438,04-16-2025,West,Widget C,R. Patel,7.0,90.44
+1439,20/08/2025,North,Widget C,J. Smith,46.0,27.44
+1440,06-25-2025,North,Widget B,A. Khan,34.0,39.02
+1441,23/03/2025,north,widget a,R. Patel,15.0,160.56
+1442,2025-04-05,SOUTH,widget a,,2.0,148.79
+1443,12/04/2025,north,widget a,R. Patel,-1.0,142.42
+1444,16/04/2025, East ,Widget A,j. smith,7.0,160.9
+1445,2025-10-02,East,Widget C,A. Khan,30.0,27.22
+1446,09-08-2025,SOUTH,Widget C,j. smith,25.0,124.21
+1447,2025-10-28,East,Widget C,R. Patel,40.0,38.64
+1448,06-02-2025,north,Widget A,A. Khan,21.0,27.98
+1449,2025-06-06,South,Widget C,A. Khan,33.0,
+1450,03-12-2025,West,widget a,A. Khan,,128.92
+1451,03-30-2025,South,widget a,M. Chen,9.0,41.48
+1452,08-19-2025,North,Widget C,J. Smith,32.0,31.62
+1453,07-16-2025,north,widget a,R. Patel,44.0,100.89
+1454,16/08/2025,South,Widget A,j. smith,2.0,160.2
+1455,23/04/2025,,Widget C,A. Khan,35.0,61.29
+1456,08-23-2025,SOUTH,widget a,j. smith,33.0,27.08
+1457,28/02/2025, East ,Widget  B,M. Chen,35.0,165.41
+1458,01-22-2025,West,Widget  B,A. Khan,28.0,24.97
+1459,07/05/2025,,Widget A,R. Patel,17.0,72.97
+1460,14/02/2025, East ,Widget A,A. Khan,14.0,163.09
+1461,06-29-2025,north,widget a,A. Khan,40.0,32.15
+1462,2025-04-16, East ,Widget A,j. smith,23.0,108.79
+1463,2025-10-03,East,Widget C,M. Chen,37.0,57.13
+1464,09-21-2025, East ,Widget A,A. Khan,49.0,158.21
+1465,31/01/2025, East ,Widget B,A. Khan,16.0,33.52
+1466,2025-06-14, East ,widget a,R. Patel,10.0,117.6
+1467,05-18-2025,West,widget a,R. Patel,5.0,128.56
+1468,17/02/2025,north,Widget C,M. Chen,30.0,
+1469,06-17-2025,,Widget A,R. Patel,41.0,134.51
+1470,2025-07-03, East ,Widget  B,R. Patel,14.0,193.79
+1471,19/04/2025,,Widget C,M. Chen,22.0,111.73
+1472,03-08-2025,,widget a,M. Chen,44.0,
+1473,2025-01-24,SOUTH,widget a,J. Smith,8.0,186.24
+1474,22/03/2025,West,Widget A,R. Patel,13.0,199.16
+1475,03-09-2025,East,Widget B,M. Chen,6.0,132.64
+1476,2025-05-09,East,Widget B,J. Smith,26.0,126.99
+1477,30/04/2025,SOUTH,Widget A,J. Smith,-1.0,46.62
+1478,2025-02-09,north,Widget B,j. smith,44.0,91.79
+1479,01-05-2025,East,Widget A,R. Patel,45.0,30.77
+1480,2025-02-06,West,Widget A,J. Smith,7.0,66.1
+1481,2025-06-03,West,Widget B,A. Khan,5.0,108.45
+1482,01-05-2025,SOUTH,Widget B,R. Patel,23.0,145.87
+1483,19/03/2025,north,widget a,A. Khan,6.0,179.84
+1484,2025-03-13,north,widget a,M. Chen,28.0,
+1485,2025-03-13,East,Widget A,A. Khan,36.0,122.19
+1486,05-26-2025,North,Widget C,A. Khan,34.0,123.35
+1487,04-07-2025,West,Widget C,J. Smith,16.0,101.5
+1488,2025-02-27,West,Widget  B,J. Smith,34.0,178.3
+1489,07/01/2025,East,Widget B,R. Patel,37.0,87.07
+1490,10-07-2025,South,widget a,J. Smith,2.0,119.54
+1491,08/01/2025,South,Widget A,J. Smith,26.0,103.79
+1492,14/09/2025,West,widget a,J. Smith,41.0,109.63
+1493,20/03/2025,North,Widget C,J. Smith,33.0,184.58
+1494,03-21-2025,East,widget a,j. smith,41.0,
+1495,03/02/2025,SOUTH,widget a,A. Khan,,52.67
+1496,2025-08-11,West,Widget  B,j. smith,4.0,65.31
+1497,2025-03-31,North,Widget B,J. Smith,11.0,101.8
+1498,06-27-2025,north,Widget C,A. Khan,24.0,
+1499,05-18-2025,North,Widget A,M. Chen,28.0,58.04
+1304,2025-01-31,West,widget a,R. Patel,30.0,44.78
+1340,2025-01-20,West,Widget B,J. Smith,26.0,158.65
+1047,03/06/2025,,Widget A,,30.0,126.13
+1067,10/06/2025,north,Widget  B,J. Smith,25.0,
+1479,01-05-2025,East,Widget A,R. Patel,45.0,30.77
+1485,2025-03-13,East,Widget A,A. Khan,36.0,122.19
+1310,07/06/2025,North,Widget A,R. Patel,33.0,94.16
+1031,2025-06-19,north,Widget B,M. Chen,43.0,99.66
+1249,30/07/2025,SOUTH,Widget B,R. Patel,40.0,60.56
+1090,19/07/2025,,Widget  B,j. smith,15.0,100.2
+1322,08-02-2025,East,Widget A,j. smith,31.0,56.78
+1168,06-26-2025,East,widget a,M. Chen,30.0,169.83
+1119,09-26-2025,East,Widget A,A. Khan,19.0,49.36
+1066,2025-05-16,North,Widget  B,R. Patel,23.0,
+1305,15/03/2025, East ,Widget C,M. Chen,26.0,30.5
